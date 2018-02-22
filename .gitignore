@@ -43,7 +43,7 @@ htmlcov/
 .tox/
 .coverage
 .coverage.*
-.cache
+.cache/
 nosetests.xml
 coverage.xml
 *.cover
@@ -102,3 +102,5 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+!.cache/sentiment_analysis/
