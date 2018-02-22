@@ -1,3 +1,2 @@
-*
-!.gitignore
-!.sentiment_analysis/
+sentiment/
+!sentiment_analysis
